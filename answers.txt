@@ -1,3 +1,4 @@
 a. Pros: flexibility and immediate feedback. Cons: lack of documentation and time.
 b. A scrum master leads the agile development team while the product owner manages the actual product and tries to gain maximum value from it.
 c. Sprint planning meeting: Determines what to complete in next sprint and determines which teams do which stories. Daily scrum: Happens everyday of srint, team members discuss work completed, work plan for the day, and any blockers. Sprint retrospective meeting: At the end of the sprint, discuss work completed and move incomplete work to backlog. 
+d. An epic is the largest issue type in JIRA and is what breaks up projects. A story is what breaks up epics and is typically a problem assigned to a team during a sprint. A bug is a programming bug within a story that needs to be resolved. This could include a seg fault. A task is simply work that needs to be done. A task could be resolved using a bug for example.
