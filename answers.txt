@@ -1,1 +1,2 @@
 a. Pros: flexibility and immediate feedback. Cons: lack of documentation and time.
+b. A scrum master leads the agile development team while the product owner manages the actual product and tries to gain maximum value from it.
